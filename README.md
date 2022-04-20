@@ -5,7 +5,7 @@ The different behaviours are chosen randomely from a list of different behaviour
 
 Uses Object Oriented Programming
 
-#########################################################################################################
+###############################################################################
 
 BrickerGameManager - the main class that starts the game.
 
